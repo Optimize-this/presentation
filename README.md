@@ -20,5 +20,5 @@
 
 ## Ссылка на презентацию
 
-> []()
+> [https://optimize-this.github.io/presentation/](https://optimize-this.github.io/presentation/)
 
